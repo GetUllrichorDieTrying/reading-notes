@@ -1,6 +1,6 @@
 # Code Fellows - 201
 
-## Day One
+## Day 1
 
 
 Writing in **markdown is fun**.
