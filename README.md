@@ -19,3 +19,5 @@ The growth mindset is looking at a problem like an opportunity for learning and 
 - If you are stuck for more than 15 minutes, ask for help.
 - Don't forget to check out [this](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) article.
 - **Be kind to yourself.**
+
+### ***Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying).***
