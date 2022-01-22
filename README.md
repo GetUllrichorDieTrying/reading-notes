@@ -23,4 +23,3 @@ The growth mindset is looking at a problem like an opportunity for learning and 
 ## Reference
 
 - [Day 1](https://getullrichordietrying.github.io/reading-notes/day-one)
-- 
