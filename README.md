@@ -10,7 +10,7 @@ I am really looking forward to learning more about software development.
 
 The growth mindset is looking at a problem like an opportunity for learning and development rather than an event of frustration. 
 
-### A Few Tips for Stating in the Growth Mindset
+### A Few Tips for Staying in the Growth Mindset
 
 - Remember the feeling of understanding a new concept.
 - Don't worry when you don't immediately understand a new concept.
@@ -20,7 +20,7 @@ The growth mindset is looking at a problem like an opportunity for learning and 
 
 ### ***Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying).***
 
-## Code Fellows - 102
+## Reference
 
-- [Day 1](https://getullrichordietrying.github.io/reading-notes/day-one).
+- [Day 1](https://getullrichordietrying.github.io/reading-notes/day-one)
 - 
