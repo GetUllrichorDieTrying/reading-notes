@@ -4,7 +4,7 @@
 
 **Intro**
 
-I am really looking forward to learning more about software development. I usually take notes for work and school using [Obsidian](https://obsidian.md/), so writing I am a fan of markdown.
+I am really looking forward to learning more about software development. I usually take notes for work and school using [Obsidian](https://obsidian.md/), so I am a fan of markdown.
 
 **Growth Mindset**
 
