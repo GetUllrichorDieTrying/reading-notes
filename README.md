@@ -13,6 +13,7 @@ The growth mindset is looking at a problem like an opportunity for learning and 
 **3 Tips to Stay in the Growth Mindset**
 
 - Remember the feeling of understanding a new concept.
-- Don't be 
+- Don't worry when you don't immediately understand a new concept.
 - If you are stuck for more than 15 minutes, ask for help.
 - Don't forget to check out [this](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) article.
+- Be kind to yourself.
