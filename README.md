@@ -6,6 +6,9 @@
 
 I am really looking forward to learning more about software development. I usually take notes for work and school using [Obsidian](https://obsidian.md/), so I am a fan of markdown.
 
+Notes
+-
+
 **Growth Mindset**
 
 The growth mindset is looking at a problem like an opportunity for learning and development rather than an event of frustration. 
