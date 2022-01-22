@@ -1,3 +1,5 @@
+# Code Fellows 102 - Day 1
+
 ### Markdown Notes
 
 I am familiar with Markdown because I love using [Obsidian](https://obsidian.md/) to take notes for work and school. I'd definitely recommend checking it out! Sometimes I forget basic syntax, but I know many of the basics. The links below will serve as the perfect reference in the future.
