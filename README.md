@@ -1,11 +1,9 @@
-# Code Fellows - 201
+# Code Fellows - 102
 
 ## Intro
 
 
-I am really looking forward to learning more about software development. I usually take notes for work and school using [Obsidian](https://obsidian.md/), so I am a fan of markdown.
-
-## Notes
+I am really looking forward to learning more about software development. 
 
 
 ### Growth Mindset
@@ -21,3 +19,8 @@ The growth mindset is looking at a problem like an opportunity for learning and 
 - **Be kind to yourself.**
 
 ### ***Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying).***
+
+## Code Fellows - 102
+
+- [Day 1](https://getullrichordietrying.github.io/reading-notes/day-one).
+- 
