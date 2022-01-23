@@ -21,5 +21,5 @@ The growth mindset is looking at a problem like an opportunity for learning and 
 
 ## Table of Contents
 
-- [Class 1: Growth Mindset](https://getullrichordietrying.github.io/reading-notes/day-one)
+- [Class 1: Growth Mindset](https://getullrichordietrying.github.io/reading-notes/class1)
 - 
