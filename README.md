@@ -3,7 +3,7 @@
 ## Intro
 
 
-I am really looking forward to learning more about software development. 
+My name is Dylan, and I am really looking forward to learning more about software development. 
 
 ### ***Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying).***
 
