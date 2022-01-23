@@ -1,4 +1,4 @@
-# Code Fellows - 102
+# Code Fellows 102
 
 ## Intro
 
