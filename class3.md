@@ -15,27 +15,33 @@
 ### Git Commands
 
 Set user name and email for Git
+
 `git config --global user.name "Jane Smith"
 
 git config --global user.email "example@email.com"`
 
 Confirm user name and email for Git
+
 `git config --global user.name (should return Jane Smith)
 
 git config --global user.email (should return example@email.com)`
 
 Check Settings
+
 `git config --list`
 
 #### Import Git Repository
 
 1. Switch to target project directory
+
 `cd targetdirectory`
 
 2. Use git init command
+
 `git init`
 
 3. Start tracking files by preforming initial commit
+
 `git add *.c`
 `git add LICENSE`
 `git commit -m “any message here”`
@@ -45,25 +51,33 @@ Check Settings
 `git clone https://github.com/test`
 
 Clone and put in named directory
+
 `$ git clone https://github.com/test nameddirectory`
 
 #### Check File Status
+
 `git status`
 
 #### Tracking and Staging New File
+
 Single File
+
 `git add filename`
 
 All Files
+
 `git add *`
 
 #### Committing a File
+
 `git commit -m “made change x,y,z”`
 
 #### Comitting All Changes
+
 `git commit -a`
 
 #### Pushing Changes
+
 `git push origin master`
 
 ### Git Workflow
