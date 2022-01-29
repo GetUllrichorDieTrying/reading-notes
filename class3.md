@@ -16,15 +16,15 @@
 
 Set user name and email for Git
 
-`git config --global user.name "Jane Smith"
+`git config --global user.name "Jane Smith"`
 
-git config --global user.email "example@email.com"`
+`git config --global user.email "example@email.com"`
 
 Confirm user name and email for Git
 
-`git config --global user.name (should return Jane Smith)
+`git config --global user.name (should return Jane Smith)`
 
-git config --global user.email (should return example@email.com)`
+`git config --global user.email (should return example@email.com)`
 
 Check Settings
 
