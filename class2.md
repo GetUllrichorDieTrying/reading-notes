@@ -10,9 +10,9 @@
 The Author gives 4 important traits to look for in a text editor:
 
 1. code completion
-2. syntax highlighting]
+2. syntax highlighting
 3. a nice variety of themes
-4. large selection of extensions\
+4. large selection of extensions
 
 [RE: ORIGINAL ARTICLE](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
