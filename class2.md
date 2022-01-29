@@ -4,7 +4,18 @@
 
 ### Choosing a Text Editor
 
-- 
+- It doesn't really matter which text editor you use, as it can be a highly personal choice.
+- One MAJOR CAVEAT is that some text editors have much better communities and support for plugins.
+
+The Author gives 4 important traits to look for in a text editor:
+
+1. code completion
+2. syntax highlighting]
+3. a nice variety of themes
+4. large selection of extensions\
+
+[RE: ORIGINAL ARTICLE](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
 
 ### Terminal Cheat Sheet
 
