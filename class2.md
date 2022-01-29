@@ -10,8 +10,8 @@
 
 ##### [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
-##### [Basic Navigation](Lihttps://ryanstutorials.net/linuxtutorial/navigation.php)
+##### [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
-##### [About Files](Lihttps://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+##### [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)
