@@ -2,13 +2,13 @@
 
 ## Intro
 
-    My name is Dylan, and I am really looking forward to learning more about software development. 
+My name is Dylan, and I am really looking forward to learning more about software development.
 
 ### ***Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying).***
 
 #### Growth Mindset
 
-    The growth mindset is looking at a problem like an opportunity for learning and development rather than an event of frustration. 
+The growth mindset is looking at a problem like an opportunity for learning and development rather than an event of frustration.
 
 #### A Few Tips for Staying in the Growth Mindset
 
