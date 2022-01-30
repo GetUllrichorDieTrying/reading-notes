@@ -82,7 +82,7 @@ All Files
 
 #### Pushing Changes
 
-`git push origin master`
+`git push origin main`
 
 ### Git Workflow
 
