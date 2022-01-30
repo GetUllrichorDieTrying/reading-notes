@@ -2,8 +2,91 @@
 
 ## Class 4: HTML
 
-### Topic
+### Wireframe and Design
 
-### Topic2
+- Wireframing is the process of designing the visual appearance of an app.
+- Simplicity is key.
+
+#### 6 Steps to Wireframe
+
+1. Research UX design.
+
+2. Prepare your research for reference.
+
+3. Map out user flow.
+
+4. DRAFT and SKETCH. Don't draw and illustrate.
+
+5. Add detail and test.
+
+6. Start prototyping.
+
+#### Tools to Use
+
+- [Wireframe.cc](https://wireframe.cc/)
+- [Figma](https://www.figma.com/)
+- [Invision App](https://www.invisionapp.com/)
+
+### HTML Basics
+
+#### [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+#### Anatomy of an HTML Element
+
+- Opening tag
+- Closing tag
+- The content
+- The element
+
+#### Nesting
+
+- The process of putting elements inside of another.
+
+#### Anatomy of an HTML Document
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>My test page</title>
+    </head>
+    <body>
+        <img src="images/cat.png" alt="My test image">
+    </body>
+    </html>`
+
+#### Headings
+
+    <h1>My main title</h1>
+    <h2>My top level heading</h2>
+    <h3>My subheading</h3>
+    <h4>My sub-subheading</h4>
+
+#### Paragraphs
+
+    <p>This is a single paragraph</p>
+
+#### Lists
+
+- Unordered `<ul>` element.
+- Ordered `<ol>` element.
+- Each item inside the list is placed in `<li>`.
+
+Example:
+
+    <ul>
+    <li>technologists</li>
+    <li>thinkers</li>
+    <li>builders</li>
+    </ul>
+
+#### Links
+
+    <a href="https://www.getullrichordietrying.com">My Website</a>
+
+### Semantics
+
+- "In programming, Semantics refers to the meaning of a piece of code"
+- In other words, what is this piece of code actually doing.
 
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)
