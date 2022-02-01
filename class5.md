@@ -1,0 +1,82 @@
+# Code Fellows 102
+
+## Class 5: CSS
+
+### Basics
+
+- Cascading Style Sheets (CSS) allows you to change the visual design of a document.
+- CSS changes size, color, alignment, etc. for different elements.
+
+Example
+
+    h1 {
+        color: red;
+        font-size: 5em;
+    }
+
+    p {
+        color: black;
+    }
+
+#### CSS Qualities Order by Priority
+
+1. Inline style (inside an HTML element)
+2. External and internal style sheets (in the head section)
+3. Browser default
+
+#### [CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
+
+        /* http://meyerweb.com/eric/tools/css/reset/ 
+        v2.0 | 20110126
+        License: none (public domain)
+        */
+
+        html, body, div, span, applet, object, iframe,
+        h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+        a, abbr, acronym, address, big, cite, code,
+        del, dfn, em, img, ins, kbd, q, s, samp,
+        small, strike, strong, sub, sup, tt, var,
+        b, u, i, center,
+        dl, dt, dd, ol, ul, li,
+        fieldset, form, label, legend,
+        table, caption, tbody, tfoot, thead, tr, th, td,
+        article, aside, canvas, details, embed, 
+        figure, figcaption, footer, header, hgroup, 
+        menu, nav, output, ruby, section, summary,
+        time, mark, audio, video {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+            font: inherit;
+            vertical-align: baseline;
+        }
+        /* HTML5 display-role reset for older browsers */
+        article, aside, details, figcaption, figure, 
+        footer, header, hgroup, menu, nav, section {
+            display: block;
+        }
+        body {
+            line-height: 1;
+        }
+        ol, ul {
+            list-style: none;
+        }
+        blockquote, q {
+            quotes: none;
+        }
+        blockquote:before, blockquote:after,
+        q:before, q:after {
+            content: '';
+            content: none;
+        }
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+
+#### Reference
+
+- [CSS General Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
+- [Color Properties](https://www.w3schools.com/cssref/pr_text_color.asp)

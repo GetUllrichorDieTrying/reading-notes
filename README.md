@@ -24,3 +24,4 @@ The growth mindset is looking at a problem like an opportunity for learning and 
 - [Class 2: Computer Setup](https://getullrichordietrying.github.io/reading-notes/class2)
 - [Class 3: Git-GitHub](https://getullrichordietrying.github.io/reading-notes/class3)
 - [Class 4: HTML](https://getullrichordietrying.github.io/reading-notes/class4)
+- [Class 5: CSS](https://getullrichordietrying.github.io/reading-notes/class5)
