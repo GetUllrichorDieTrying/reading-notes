@@ -27,3 +27,4 @@ The growth mindset is looking at a problem like an opportunity for learning and 
 - [Class 5: CSS](https://getullrichordietrying.github.io/reading-notes/class5)
 - [Class 6: JavaScript](https://getullrichordietrying.github.io/reading-notes/class6)
 - [Class 7: Programming with JavaScript](https://getullrichordietrying.github.io/reading-notes/class7)
+- [Class 8: Loops and Operators](https://getullrichordietrying.github.io/reading-notes/class8)
