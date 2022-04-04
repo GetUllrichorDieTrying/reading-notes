@@ -10,7 +10,7 @@ My name is Dylan, and I am really looking forward to learning more about softwar
 
 ### Table of Contents
 
-- [Class 1: ]()
+- [Class 1: HTML, CSS, JS](https://getullrichordietrying.github.io/reading-notes/201-class1)
 - [Class 2: ]()
 - [Class 3: ]()
 - [Class 4: ]()
@@ -30,11 +30,11 @@ My name is Dylan, and I am really looking forward to learning more about softwar
 
 ### Table of Contents
 
-- [Class 1: Growth Mindset](https://getullrichordietrying.github.io/reading-notes/class1)
-- [Class 2: Computer Setup](https://getullrichordietrying.github.io/reading-notes/class2)
-- [Class 3: Git-GitHub](https://getullrichordietrying.github.io/reading-notes/class3)
-- [Class 4: HTML](https://getullrichordietrying.github.io/reading-notes/class4)
-- [Class 5: CSS](https://getullrichordietrying.github.io/reading-notes/class5)
-- [Class 6: JavaScript](https://getullrichordietrying.github.io/reading-notes/class6)
-- [Class 7: Programming with JavaScript](https://getullrichordietrying.github.io/reading-notes/class7)
-- [Class 8: Loops and Operators](https://getullrichordietrying.github.io/reading-notes/class8)
+- [Class 1: Growth Mindset](https://getullrichordietrying.github.io/reading-notes/102-class1)
+- [Class 2: Computer Setup](https://getullrichordietrying.github.io/reading-notes/102-class2)
+- [Class 3: Git-GitHub](https://getullrichordietrying.github.io/reading-notes/102-class3)
+- [Class 4: HTML](https://getullrichordietrying.github.io/reading-notes/102-class4)
+- [Class 5: CSS](https://getullrichordietrying.github.io/reading-notes/102-class5)
+- [Class 6: JavaScript](https://getullrichordietrying.github.io/reading-notes/102-class6)
+- [Class 7: Programming with JavaScript](https://getullrichordietrying.github.io/reading-notes/102-class7)
+- [Class 8: Loops and Operators](https://getullrichordietrying.github.io/reading-notes/102-class8)
