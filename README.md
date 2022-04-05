@@ -1,17 +1,13 @@
-# Code Fellows
-
-## Intro
+# Code Fellows Reading Notes
 
 My name is Dylan, and I am really looking forward to learning more about software development.
 
-### ***Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying).***
+***Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying).***
 
-## Code Fellows 201 Reading Notes
+## Code 201 Table of Contents
 
-### Table of Contents
-
-- [Class 1: HTML, CSS, JS](https://getullrichordietrying.github.io/reading-notes/201-class1)
-- [Class 2: ]()
+- [Class 1: Scratching the Surface: HTML, CSS, JavaScript](https://getullrichordietrying.github.io/reading-notes/201-class1)
+- [Class 2: A Little More About: HTML, CSS, JavaScript](https://getullrichordietrying.github.io/reading-notes/201-class2)
 - [Class 3: ]()
 - [Class 4: ]()
 - [Class 5: ]()
@@ -26,9 +22,7 @@ My name is Dylan, and I am really looking forward to learning more about softwar
 - [Class 14: ]()
 - [Class 15: ]()
 
-## Code Fellows 102 Reading Notes
-
-### Table of Contents
+## Code 102 Table of Contents
 
 - [Class 1: Growth Mindset](https://getullrichordietrying.github.io/reading-notes/102-class1)
 - [Class 2: Computer Setup](https://getullrichordietrying.github.io/reading-notes/102-class2)
