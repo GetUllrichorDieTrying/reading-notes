@@ -6,20 +6,20 @@
 
 #### Chapter 2: “Text” (pp.40-61)
 
--
+This chapter discusses different HTML elements and how they make text appear. Structural markup versus semantic markup. Structural markup includes different elements like main or body while semantic markup will change the appearance of text by making text bold, underlined, or something of that nature.
 
 #### Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 
--
+CSS treats HTML as it should appear in its own box. CSS has a variety of selectors that will let you change the appearance of different elements on the page according to different selectors available.
 
 ### Duckett: JavaScript & Jquery
 
 #### Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 
--
+A script is a series of statements to follow, like a recipe. Variables temporarily store information. Arrays are special variables that store more than one piece of information. JS differentiates between numbers, strings, and Boolean values.
 
-#### Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+#### Chapter 4: “Decisions and Loops” up to switch statements (pp.145-162)
 
--
+Decisions and loops use different statements to see which is right according to the information provided. Operators and expressions are used to determine how a script operates.
 
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)
