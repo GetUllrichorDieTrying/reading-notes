@@ -6,20 +6,20 @@
 
 #### Chapter 3: “Lists” (pp.62-73)
 
--
+Ordered Lists, Unordered lists, definition lists are the three types. The most commonly used will be ordered and unordered. Nested lists are also managable using HTML.
 
 #### Chapter 13: “Boxes” (pp.300-329)
 
--
+Every HTML element is essentially a box. CSS allows you to select and edit the look of the box.
 
 ### Duckett: JavaScript & Jquery
 
 #### Chapter 2: “Basic JavaScript Instructions” - REVIEW ARRAYS (pp.70-73)
 
--
+Arrays are a special type of variable that allow for a set of values that are related to each other.
 
 #### Chapter 4: “Decisions and Loops” switch statements on (pp.162-182)
 
--
+Lists different operators, data types, and loop functionalities. This will be a good reference for loops in the future.
 
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)
