@@ -6,7 +6,7 @@ My name is Dylan, and I am really looking forward to learning more about softwar
 
 ## Code 201 Table of Contents
 
-- [Class 1: Scratching the Surface: HTML, CSS, JavaScript](201-class1.md)
+- [Class 1: Scratching the Surface: HTML, CSS, JavaScript](./Code-201/201-class1.md)
 - [Class 2: A Little More About: HTML, CSS, JavaScript](https://getullrichordietrying.github.io/reading-notes/201-class2)
 - [Class 3: ]()
 - [Class 4: ]()
