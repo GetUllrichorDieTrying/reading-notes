@@ -6,21 +6,23 @@
 
 #### Chapter 4: Ch.4 “Links” (pp.74-93)
 
--
+Links use the `<a>` element. Links can be used to link to another website, another page on the same website, from one part of a web page to another part of the same page, open up a new browser, or start an email to somoeoone.
 
 #### Chapter 15: “Layout” (pp.358-404)
 
--
+Massive chapter regarding layout. This expands on the box idea and provides more ways to manipulate the box. Screem sizes and layouts are considered in this section. I can see myself spending quite a bit of time in this chapter when designing a layout from scratch.
 
 ### Duckett: JavaScript & Jquery
 
 #### Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 
--
+Functions are a series of statements that have been grouped together for a specific task. Functions are declared and then called in the file.
+
+Variables can be local scope (function level), or global.
 
 #### 6 Reasons for Pair Programming
 
--
+Pair programming is exactly what it sounds like. The practice of programming in pairs. There is a driver who manages the text editor and writes code, while the navigator thinks about big picture and how an algorithm might be converted to code. This allows for a better learning experience, and development that may intially take slightly longer, but the end result is more reliable.
 
 Reference: [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
