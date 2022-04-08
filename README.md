@@ -6,11 +6,11 @@ My name is Dylan, and I am really looking forward to learning more about softwar
 
 ## Code 201 Table of Contents
 
-- [Class 1: Scratching the Surface: HTML, CSS, JavaScript](./Code-201/201-class1.md)
-- [Class 2: A Little More About: HTML, CSS, JavaScript](./Code-201/201-class2.md)
-- [Class 3:](./Code-201/201-class3.md)
-- [Class 4:](./Code-201/201-class4.md)
-- [Class 5:](./Code-201/201-class5.md)
+- [Class 1: Structure, Extra Markup, HTML5 Layout, Process & Design, and The ABC of Programming](./Code-201/201-class1.md)
+- [Class 2: Text, Introducing CSS, Basic JavaScript Instructions, and Loops](./Code-201/201-class2.md)
+- [Class 3: Lists, Boxes, Arrays, More Loops](./Code-201/201-class3.md)
+- [Class 4: Links, Layout, Functions, and Pair Programming](./Code-201/201-class4.md)
+- [Class 5: Images, Color, and Text](./Code-201/201-class5.md)
 - [Class 6:](./Code-201/201-class6.md)
 - [Class 7:](./Code-201/201-class7.md)
 - [Class 8:](./Code-201/201-class8.md)
