@@ -6,15 +6,41 @@
 
 #### Chapter 5: “Images” (pp.94-125)
 
--
+`<img>`
+
+src - source of image.
+
+alt - text description.
+
+title - hover.
+
+Height and Width in px.
 
 #### Chapter 11: “Color” (pp.246-263)
 
--
+RGB Values, Hex Codes, and Color Names.
+
+`opacity`
+
+I should probably use a color picker. Use a color picker.
 
 #### Chapter 12: “Text” (pp.264-299)
 
--
+Stay with pixels px for font to ensure font size is correct. CSS can manipulate text in mant ways.
+
+CSS
+
+`text-align`
+
+`vertical-align`
+
+`text-indent`
+
+`text-shadow`
+
+`font-weight`
+
+`font-style`
 
 #### JPEG vs PNG vs GIF
 
