@@ -1,0 +1,76 @@
+# Code Fellows 201
+
+## Class 6
+
+### Duckett: Readings
+
+#### Understanding the Problem Domain
+
+It is important to understand the problem you are trying to solve with code when writing code. The code will be easier to write, and the end product will be more in-line with the original vision if we understand the problem domain. Understand use cases and how the product should behave.
+
+[Reference](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming/)
+
+#### Primitive Values vs Object References
+
+Primititive Value
+
+- Immutable
+- Actual values
+
+Object Reference
+
+- Mutable
+- Reference
+
+Javascript's Eight Data Types:
+
+- Boolean
+- Null
+- Undefined
+- Number
+- BigInt
+- String
+- Symbol
+- Objects
+
+[Reference](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
+
+### Duckett: JavaScript & Jquery
+
+#### Chapter 3: “Object Literals” (pp.100-105)
+
+"Objects group together a set of variables and functions to create a model of something you would recognize form the real world. In an object, variables and functions take on new names" (Duckett, p. 100).
+
+Variables become properties.
+
+Functions become methods.
+
+```js
+let userProfile = {
+  name: 'Dylan',
+  age: 204,
+
+  checkAge: function() {
+    return this.age;
+  }
+};
+```
+
+#### Chapter 5: “Document Object Model” (pp.183-242)
+
+The DOM is independent of any programming language and makes the structure of a document available through a Web API.
+
+DOM Tree used to represent web pages in browser.
+
+Manipulating the DOM tree with JS creates intereactive websites.
+
+Four types of Dom trees:
+
+- document nodes
+- element nodes
+- attribute nodes
+- text nodes
+
+[Reference: MDN Intro to DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+[HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)
