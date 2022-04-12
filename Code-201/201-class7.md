@@ -1,0 +1,33 @@
+# Code Fellows 201
+
+## Class 7
+
+### Code Fellows Repo
+
+#### Domain Modeling
+
+Domain modeling is the process of creating a conceptual model for a specific problem.
+
+[Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
+
+### Duckett: HTML & CSS
+
+#### Chapter 6: “Tables” (pp.126-145)
+
+Used to collect information from site visitors and lives inside of a `<form>` element.
+
+Information is sent in key value pairs.
+
+### Duckett: JavaScript & Jquery
+
+#### Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+
+Functions allow you to group a set of related statements together.
+
+Using constructors to modify objects.
+
+Look at page 113 for code examples.
+
+Arrays and objects can create complex data sets.
+
+[HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)
