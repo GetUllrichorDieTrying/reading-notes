@@ -18,7 +18,7 @@ My name is Dylan, and I am really looking forward to learning more about softwar
 - [Class 10: Error Handling and Debugging](./Code-201/201-class10.md)
 - [Class 11: Images, Practical Information, and Audio/Video APIs](./Code-201/201-class11.md)
 - [Class 12: Chart.js and Canvas API](./Code-201/201-class12.md)
-- [Class 13:](./Code-201/201-class13.md)
+- [Class 13: Local Storage](./Code-201/201-class13.md)
 - [Class 14:](./Code-201/201-class14.md)
 - [Class 15:](./Code-201/201-class15.md)
 
