@@ -27,11 +27,11 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 08: Web Development Layout](./code-201/201-class08.md)
 - [Class 09: Forms, Lists, and Events](./code-201/201-class09.md)
 - [Class 10: Error Handling and Debugging](./code-201/201-class10.md)
-- [Class 11: Images, Practical Information, and Audio/Video APIs](./Code-201/201-class11.md)
+- [Class 11: Images, Practical Information, and Audio/Video APIs](./code-201/201-class11.md)
 - [Class 12: Chart.js and Canvas API](./code-201/201-class12.md)
-- [Class 13: Local Storage](./Code-201/201-class13.md)
+- [Class 13: Local Storage](./code-201/201-class13.md)
 - [Class 14: Working in Teams and More CSS](./code-201/201-class14.md)
 
 ## Code 301 - Intermediate Software Development
 
-- [Class 01: Components & Props](/code-301/301-class01.md)
+- [Class 01: Components & Props](./code-301/301-class01.md)
