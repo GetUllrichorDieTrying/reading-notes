@@ -17,7 +17,7 @@ This repository is a collection of my learning notes during my time at Code Fell
 
 ## Code 201 - Foundations of Software Development
 
-- [Class 01: Structure, Extra Markup, HTML5 Layout, Process & Design, and The ABC of Programming](code-201/201-class01.md)
+- [Class 01: Structure, Extra Markup, HTML5 Layout, Process & Design, and The ABC of Programming](/code-201/201-class01.md)
 - [Class 02: Text, Introducing CSS, Basic JavaScript Instructions, and Loops](code-201/201-class02.md)
 - [Class 03: Lists, Boxes, Arrays, More Loops](code-201/201-class03.md)
 - [Class 04: Links, Layout, Functions, and Pair Programming](code-201/201-class04.md)
