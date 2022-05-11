@@ -36,3 +36,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 
 - [Class 01: Components & Props](./code-301/301-class01.md)
 - [Class 02: State vs Props](./code-301/301-class02.md)
+- [Class 03: Passing Functions as Props](./code-301/301-class03.md)
