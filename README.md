@@ -38,3 +38,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 02: State vs Props](./code-301/301-class02.md)
 - [Class 03: Passing Functions as Props](./code-301/301-class03.md)
 - [Class 04: React and Forms](./code-301/301-class04.md)
+- [Class 05: Thinking in React and Higher-Order Functions](./code-301/301-class05.md)
