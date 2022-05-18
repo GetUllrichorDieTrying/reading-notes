@@ -40,3 +40,5 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 04: React and Forms](./code-301/301-class04.md)
 - [Class 05: Thinking in React and Higher-Order Functions](./code-301/301-class05.md)
 - [Class 06: Node and Pair Programming](./code-301/301-class06.md)
+- [Class 07:](./code-301/301-class07.md)
+- [Class 08:](./code-301/301-class08.md)
