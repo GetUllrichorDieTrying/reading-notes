@@ -2,7 +2,7 @@
 
 This repository is a collection of my learning notes during my time at Code Fellows.
 
-***Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying).***
+**_Check out my [GitHub Portfolio](https://github.com/GetUllrichorDieTrying)._**
 
 ## Code 102 - Intro to Software Development
 
@@ -42,3 +42,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 06: Node and Pair Programming](./code-301/301-class06.md)
 - [Class 07:](./code-301/301-class07.md)
 - [Class 08:](./code-301/301-class08.md)
+- [Class 09:](./code-301/301-class09.md)
