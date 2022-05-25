@@ -46,3 +46,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 10:JS Call Stack & Error Messages](./code-301/301-class10.md)
 - [Class 11: SQL vs NoSQL](./code-301/301-class11.md)
 - [Class 12: Status Codes & ME[X]N Stack](./code-301/301-class12.md)
+- [Class 13: CRUD & REST](./code-301/301-class13.md)
