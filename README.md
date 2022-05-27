@@ -48,3 +48,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 12: Status Codes & ME[X]N Stack](./code-301/301-class12.md)
 - [Class 13: CRUD & REST](./code-301/301-class13.md)
 - [Class 14: Diversity in Tech](./code-301/301-class14.md)
+- [Class 15: Authentication](./code-301/301-class15.md)
