@@ -54,5 +54,6 @@ This repository is a collection of my learning notes during my time at Code Fell
 
 - [Terminal](./code-401-JavaScript/terminal.md)
 - [SQL](./code-401-JavaScript/sql.md)
-- [Class 01: TBD](TBD)
-- [Class 01: TBD](TBD)
+- [GIT](./code-401-JavaScript/git.md)
+- [Typing](./code-401-JavaScript/typing.md)
+- [Software Engineering Readings](./code-401-JavaScript/software-engineering.md)
