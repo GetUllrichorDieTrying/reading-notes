@@ -52,4 +52,7 @@ This repository is a collection of my learning notes during my time at Code Fell
 
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
+- [Terminal](./code-401-JavaScript/terminal.md)
+- [Class 01: TBD](TBD)
+- [Class 01: TBD](TBD)
 - [Class 01: TBD](TBD)
