@@ -57,3 +57,7 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [GIT](./code-401-JavaScript/git.md)
 - [Typing](./code-401-JavaScript/typing.md)
 - [Software Engineering Readings](./code-401-JavaScript/software-engineering.md)
+
+---
+
+- [Class 01: Node](./code-401-JavaScript/401-class01.md)
