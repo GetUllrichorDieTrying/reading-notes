@@ -62,3 +62,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 
 - [Class 01: Node](./code-401-JavaScript/401-class01.md)
 - [Class 02: Express, NPM, TDD, CI/CD](./code-401-JavaScript/401-class02.md)
+- [Class 03: Express REST API](./code-401-JavaScript/401-class03.md)
