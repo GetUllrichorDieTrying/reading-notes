@@ -66,3 +66,5 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 04: Data Modeling](./code-401-JavaScript/401-class04.md)
 - [Class 05: Linked Lists](./code-401-JavaScript/401-class05.md)
 - [Class 06: Authentication](./code-401-JavaScript/401-class06.md)
+- [Class 07: Bearer Authorization](./code-401-JavaScript/401-class07.md)
+- [Class 08: Access Control](./code-401-JavaScript/401-class08.md)
