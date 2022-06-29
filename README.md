@@ -68,3 +68,8 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 06: Authentication](./code-401-JavaScript/401-class06.md)
 - [Class 07: Bearer Authorization](./code-401-JavaScript/401-class07.md)
 - [Class 08: Access Control](./code-401-JavaScript/401-class08.md)
+- [Class 09: Authorization/Authentication](./code-401-JavaScript/401-class09.md)
+- [Class 10: Stacks & Queues](./code-401-JavaScript/401-class10.md)
+- [Class 11: Event Driven Applications](./code-401-JavaScript/401-class11.md)
+- [Class 12: Socket.io](./code-401-JavaScript/401-class12.md)
+- [Class 13: Message Queues](./code-401-JavaScript/401-class13.md)
