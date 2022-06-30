@@ -73,3 +73,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 11: Event Driven Applications](./code-401-JavaScript/401-class11.md)
 - [Class 12: Socket.io](./code-401-JavaScript/401-class12.md)
 - [Class 13: Message Queues](./code-401-JavaScript/401-class13.md)
+- [Class 14: Event Driven Architecture](./code-401-JavaScript/401-class14.md)
