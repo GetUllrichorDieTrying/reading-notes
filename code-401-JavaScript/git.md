@@ -9,6 +9,6 @@
 ![Git Practice Main](./../img/git-practice-main.png)
 ![Git Practice Remote](./../img/git-practice-remote.png)
 
-
+---
 
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)

@@ -20,4 +20,6 @@
 ![Example 17](./../img/ex17.png)
 ![Example 18](./../img/ex18.png)
 
+---
+
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)

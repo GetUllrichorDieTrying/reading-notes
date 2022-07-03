@@ -20,4 +20,6 @@
 - Break the problem down into smaller steps.
 - If completely lost in the sauce, don't be afraid to scrap my code and start over with a fresh mind.
 
+---
+
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)

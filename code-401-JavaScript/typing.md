@@ -11,4 +11,6 @@
 ![Typing Lesson 2](./../img/typing-lessson2.png)
 ![Typing Lesson 3](./../img/typing-lessson3.png)
 
+---
+
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)

@@ -10,4 +10,6 @@
 
 ![Cheat Sheet](./../img/linux-command-cheat-sheet.png)
 
+---
+
 [HOME PAGE](https://getullrichordietrying.github.io/reading-notes/)
