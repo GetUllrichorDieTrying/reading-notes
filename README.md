@@ -75,3 +75,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 13: Message Queues](./code-401-JavaScript/401-class13.md)
 - [Class 14: Event Driven Architecture](./code-401-JavaScript/401-class14.md)
 - [Class 15: Trees](./code-401-JavaScript/401-class15.md)
+- [Class 16: AWS Cloud Servers](./code-401-JavaScript/401-class16.md)
