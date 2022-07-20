@@ -80,3 +80,4 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 18: AWS API, Dynamo, and Lambda](./code-401-JavaScript/401-class18.md)
 - [Class 19: AWS Events](./code-401-JavaScript/401-class19.md)
 - [Class 26: Component Based UI](./code-401-JavaScript/401-class26.md)
+- [Class 27: useState() Hook](./code-401-JavaScript/401-class27.md)
