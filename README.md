@@ -85,4 +85,5 @@ This repository is a collection of my learning notes during my time at Code Fell
 - [Class 29: Advanced State with Reducers](./code-401-JavaScript/401-class29.md)
 - [Class 30: Hashtables](./code-401-JavaScript/401-class30.md)
 - [Class 31: Context API](./code-401-JavaScript/401-class31.md)
-- [Class 32: Context API - Behaviors](./code-401-JavaScript/401-class31.md)
+- [Class 32: Context API - Behaviors](./code-401-JavaScript/401-class32.md)
+- [Class 33: `<Login />` and `<Auth />`](./code-401-JavaScript/401-class33.md)
